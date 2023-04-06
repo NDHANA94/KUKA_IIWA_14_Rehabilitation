@@ -1,4 +1,4 @@
-# KUKA_IIWA_14_Lower_Limb_Rehabilitation
+# KUKA IIWA 14 - Lower Limb Rehabilitation
 
 This code is developed for the published research paper [Novel method for lower limb rehabilitation based on brain-computer interface and transcutaneous spinal cord electrical stimulation](https://ieeexplore.ieee.org/abstract/document/9912550).
 
