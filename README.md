@@ -1,5 +1,7 @@
-# KUKA_IIWA_14_Rehabilitation
-Using kuka iiwa 14 for rehabilitation of human leg.
+# KUKA_IIWA_14_Lower_Limb_Rehabilitation
+
+This code is developed for the published research paper [Novel method for lower limb rehabilitation based on brain-computer interface and transcutaneous spinal cord electrical stimulation](https://ieeexplore.ieee.org/abstract/document/9912550).
+
 
 This package uses KUKA-IIWA-ROS-API (https://github.com/jonaitken/KUKA-IIWA-API) for communicating with kuka sunrise to control the robot.  
 
