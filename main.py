@@ -1,5 +1,8 @@
 #!/usr/bin/env python
-
+# ========================================  
+#      * Author: nipun.dhananjaya@gmail.com  
+#      * Created: xx.08.2022  
+# ======================================== 
 import PySimpleGUIQt as sg
 from multiprocessing import Process
 import threading
