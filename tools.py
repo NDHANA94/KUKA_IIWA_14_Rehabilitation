@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 
 import json
-
+# ========================================  
+#      * Author: nipun.dhananjaya@gmail.com  
+#      * Created: xx.08.2022  
+# ======================================== 
 
 
 # ============= Control parameters ==============================
