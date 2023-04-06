@@ -1,5 +1,8 @@
 #!/usr/bin/env python
-
+# ========================================  
+#      * Author: nipun.dhananjaya@gmail.com  
+#      * Created: xx.08.2022  
+# ========================================  
 import server_V30032017 as iiwa_server
 from client_lib import kuka_iiwa_ros_client
 import numpy as np
